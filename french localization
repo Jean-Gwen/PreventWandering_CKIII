@@ -1,0 +1,17 @@
+l_french:
+ ban_wandering_interaction:0 "Interdire les voyages"
+ ban_wandering_interaction_desc:1 "Interdire à [recipient.GetShortUINamePossessiveNoTooltip] de quitter votre cour."
+ ban_wandering_notification:0 "Interdiction de voyager"
+ enable_wandering_interaction:0 "Autoriser les voyages"
+ enable_wandering_interaction_desc:1 "Autoriser [recipient.GetShortUINamePossessiveNoTooltip] à quitter votre cour. "
+ enable_wandering_notification:0 "Autorisation de voyager"
+
+ ENABLE_WANDERING_PROPOSAL:0 "Vos services ne sont plus requis à la cour. Bonne chance et bon voyage."
+ ENABLE_WANDERING_ACCEPT:0 "Merci M[ACTOR.GetOnseigneurAdame]."
+
+ BAN_WANDERING_PROPOSAL:0 "Votre présence à notre cour est appréciée. Je vous prie de rester à nos côtés, vous pourriez bientôt nous être utile."
+ BAN_WANDERING_ACCEPT:0 "Fort bien ! J’attendrai vos ordres."
+ ENABLE_WANDERING_REJECT:0 "Absolument pas ! J’irai selon mon bon vouloir."
+ REASON_LIEGE:0 "Vous êtes mon seigneur lige."
+ PRESTIGE_COST_REASON:0 "Base"
+ PRESTIGE_COST_RECENT_DECISION_REASON:0 "Seigneur lige indécis"
